@@ -2,5 +2,5 @@
 
 ## Alunos do grupo
 
-Aluno 1
-Aluno 2
+André
+Stefanie
