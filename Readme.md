@@ -2,6 +2,9 @@
 
 ## Alunos do grupo
 
-André Luiz Faraco Mazucheli
+# André Luiz Faraco Mazucheli
 
-Stefanie
+# Stefanie Martins
+- POO
+- REDII
+- CALCIV
