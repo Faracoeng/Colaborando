@@ -2,6 +2,6 @@
 
 ## Alunos do grupo
 
-André
+André Luiz Faraco Mazucheli
 
 Stefanie
